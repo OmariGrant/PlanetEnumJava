@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423b4434-eb80-45c0-a3cb-d1457add9aa6" name="Changes" comment="Added MassInKG values&#10;created README.md">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="423b4434-eb80-45c0-a3cb-d1457add9aa6" name="Changes" comment="Added missing values">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MathValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MathValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Planet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669126387137</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added MassInKG values&#10;created README.md">
+      <created>1669142327880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669142327881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added MassInKG values&#10;created README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MassInKG values&#10;created README.md" />
+    <MESSAGE value="Added missing values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing values" />
   </component>
 </project>
